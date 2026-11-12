@@ -1,0 +1,1 @@
+﻿WINDOW ControlType.Window | Thaiphoon Burner| 1346,707,1149,746

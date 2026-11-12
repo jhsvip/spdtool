@@ -1,0 +1,30 @@
+ControlType.Pane |  | 1291,715,1258,76
+ControlType.Text | 写入需先完成读取与解码校验；写前强制备份、逐页回读、自动重算 CRC；禁止总线枚举与 KILL 重试。 | 1301,765,1238,22
+ControlType.Pane | 写入需先完成读取与解码校验；写前强制备份、逐页回读、自动重算 CRC；禁止总线枚举与 KILL 重试。 | 1301,719,1238,68
+ControlType.Text | SMBus 基址 | 1305,727,109,24
+ControlType.Edit | SMBus 基址 | 1418,721,90,30
+ControlType.Text | SPD 器件地址 | 1526,727,122,24
+ControlType.ComboBox | SPD 器件地址 | 1652,721,82,32
+ControlType.Text | SPD 器件地址 | 1652,721,82,32
+ControlType.Button | Open | 1709,722,24,30
+ControlType.Text | 类型 | 1752,727,46,24
+ControlType.Text | DDR4 | 1802,727,61,24
+ControlType.Button | 读取 SPD | 1881,721,100,30
+ControlType.Button | 检测环境 | 1991,721,104,30
+ControlType.MenuBar |  | 1291,679,1258,36
+ControlType.MenuItem | 文件(F) | 1300,682,84,30
+ControlType.MenuItem | 操作(O) | 1384,682,89,30
+ControlType.MenuItem | 帮助(H) | 1473,682,88,30
+ControlType.Pane |  | 1291,679,1258,733
+ControlType.Pane |  | 1291,679,754,733
+ControlType.Pane |  | 1291,679,754,733
+ControlType.Group | 模组信息 | 1303,691,20,533
+ControlType.Group | DRAM 组件 | 1303,1238,20,309
+ControlType.Group | 时序参数（JEDEC 基准档） | 1303,1561,20,620
+ControlType.Group | XMP 档位 | 1303,2195,20,241
+ControlType.Pane | tCK 0.375 ns / tAA 0 ns / tRCD 0 ns / tRP 0 ns | 2049,679,500,733
+ControlType.Pane | tCK 0.375 ns / tAA 0 ns / tRCD 0 ns / tRP 0 ns | 2049,679,500,733
+ControlType.Text | 原始 SPD（512 字节，16 字节/行） | 2052,679,494,32
+ControlType.Document | 原始 SPD（512 字节，16 字节/行） | 2057,711,484,693
+ControlType.StatusBar |  | 1291,1412,1258,31
+ControlType.Text | 读取完成：512 字节，CRC 通过。 请点击“解码校验”后再开放写入。 | 1292,1416,1243,24

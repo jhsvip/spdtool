@@ -1,0 +1,123 @@
+﻿ControlType.Pane |  | 1291,679,1258,764
+ControlType.MenuBar |  | 1291,679,1258,36
+ControlType.MenuItem | 文件(F) | 1300,682,84,30
+ControlType.MenuItem | 操作(O) | 1384,682,89,30
+ControlType.MenuItem | 帮助(H) | 1473,682,88,30
+ControlType.Pane |  | 1294,718,1252,70
+ControlType.Text | 写入需先完成读取与解码校验；写前强制备份、逐页回读、自动重算 CRC；禁止总线枚举与 KILL 重试。 | 1304,762,1232,22
+ControlType.Pane | 写入需先完成读取与解码校验；写前强制备份、逐页回读、自动重算 CRC；禁止总线枚举与 KILL 重试。 | 1304,722,1232,62
+ControlType.Text | SMBus 基址 | 1308,730,109,24
+ControlType.Edit | SMBus 基址 | 1421,724,90,30
+ControlType.Text | SPD 器件地址 | 1529,730,122,24
+ControlType.ComboBox | SPD 器件地址 | 1655,724,82,32
+ControlType.Text | SPD 器件地址 | 1655,724,82,32
+ControlType.Button | Open | 1712,725,24,30
+ControlType.Text | 类型 | 1755,730,46,24
+ControlType.Text | DDR4 | 1805,730,61,24
+ControlType.Button | 读取 SPD | 1884,724,100,30
+ControlType.Button | 检测环境 | 1994,724,104,30
+ControlType.Pane |  | 1294,794,1252,615
+ControlType.Pane |  | 1294,794,751,615
+ControlType.Pane |  | 1294,794,751,615
+ControlType.Group | 模组信息 | 1306,806,723,530
+ControlType.Pane |  | 1316,835,703,496
+ControlType.Text | SPD 版本 | 1318,840,86,24
+ControlType.Text | 1.1 | 1468,839,36,24
+ControlType.Text | SPD 字节数 | 1318,874,104,24
+ControlType.Text | 512 字节 | 1468,873,84,24
+ControlType.Text | 内存类型 | 1318,908,82,24
+ControlType.Text | DDR4 SDRAM | 1468,907,133,24
+ControlType.Text | 模组类型 | 1318,942,82,24
+ControlType.Text | UDIMM | 1468,941,78,24
+ControlType.Text | 模组厂商 | 1318,976,82,24
+ControlType.Text | JUHOR（按本机比对确认） | 1468,975,233,24
+ControlType.Text | 型号 | 1318,1010,46,24
+ControlType.Text | JHD4000U1916JG | 1468,1009,166,24
+ControlType.Text | 序列号 | 1318,1044,64,24
+ControlType.Text | 1424119042 | 1468,1043,120,24
+ControlType.Text | 生产日期 | 1318,1078,82,24
+ControlType.Text | 2024 年第 31 周 | 1468,1077,145,24
+ControlType.Text | 容量 | 1318,1112,46,24
+ControlType.Text | 16 GB | 1468,1111,61,24
+ControlType.Text | 16 GB | 1319,1141,100,23
+ControlType.Text | 8192 Mb × 8 颗/rank × 2 rank | 1468,1141,240,21
+ControlType.Text | 组织结构 | 1318,1173,82,24
+ControlType.Text | 2R × 8（64-bit 总线） | 1468,1172,198,24
+ControlType.Text | 2R × 8（64-bit 总线） | 1319,1202,100,23
+ControlType.Text | 对称 rank 组合 | 1468,1202,118,21
+ControlType.Text | 总线宽度 | 1318,1234,82,24
+ControlType.Text | 64-bit | 1468,1233,64,24
+ControlType.Text | 工作电压 | 1318,1268,82,24
+ControlType.Text | 1.2 V (DDR4) | 1468,1267,121,24
+ControlType.Text | 温度传感器 | 1318,1302,100,24
+ControlType.Text | 无 | 1468,1301,28,24
+ControlType.Group | DRAM 组件 | 1306,1350,723,306
+ControlType.Pane | 无 | 1316,1379,703,272
+ControlType.Text | DRAM 厂商 | 1318,1384,108,24
+ControlType.Text | SK hynix | 1468,1383,82,24
+ControlType.Text | 芯片密度 | 1318,1418,82,24
+ControlType.Text | 8192 Mb (8 Gb) | 1468,1417,147,24
+ControlType.Text | 芯片位宽 | 1318,1452,82,24
+ControlType.Text | x8 | 1468,1451,30,24
+ControlType.Text | 芯片数量 | 1318,1486,82,24
+ControlType.Text | 16 颗 | 1468,1485,55,24
+ControlType.Text | Bank 结构 | 1318,1520,93,24
+ControlType.Text | 4 bank group × 4 bank = 16 banks | 1468,1519,310,24
+ControlType.Text | 行/列地址 | 1318,1554,90,24
+ControlType.Text | 16 行 / 10 列 | 1468,1553,118,24
+ControlType.Text | 封装 | 1318,1588,46,24
+ControlType.Text | 单片 (Monolithic) | 1468,1587,156,24
+ControlType.Text | Rank 数 | 1318,1622,76,24
+ControlType.Text | 2 | 1468,1621,21,24
+ControlType.Group | 时序参数（JEDEC 基准档） | 1306,1670,723,617
+ControlType.Pane | 2 | 1316,1699,703,583
+ControlType.Text | 频率 / 速率 | 1318,1704,100,24
+ControlType.Text | 1200.48 MHz  (DDR4-2401) | 1468,1703,251,24
+ControlType.Text | tCK(min) | 1318,1738,85,24
+ControlType.Text | 0.833 ns | 1468,1737,82,24
+ControlType.Text | CAS 延迟 tCL | 1318,1772,119,24
+ControlType.Text | 17 CL | 1468,1771,58,24
+ControlType.Text | 17 CL | 1319,1801,100,23
+ControlType.Text | 由 tAA 13.75 ns / tCK 0.833 ns 计算 | 1468,1801,274,21
+ControlType.Text | tRCD | 1318,1833,55,24
+ControlType.Text | 13.75 ns  (17 CL) | 1468,1832,152,24
+ControlType.Text | tRP | 1318,1867,40,24
+ControlType.Text | 13.75 ns  (17 CL) | 1468,1866,152,24
+ControlType.Text | tRAS | 1318,1901,52,24
+ControlType.Text | 32 ns  (39 CL) | 1468,1900,126,24
+ControlType.Text | tRC | 1318,1935,41,24
+ControlType.Text | 45.75 ns  (55 CL) | 1468,1934,152,24
+ControlType.Text | tRFC1 | 1318,1969,62,24
+ControlType.Text | 350 ns | 1468,1968,67,24
+ControlType.Text | tRFC2 / tRFC4 | 1318,2003,132,24
+ControlType.Text | 260 / 160 ns | 1468,2002,118,24
+ControlType.Text | tFAW | 1318,2037,58,24
+ControlType.Text | 21 ns | 1468,2036,56,24
+ControlType.Text | tRRD_S / tRRD_L | 1318,2071,91,48
+ControlType.Text | 3.299 / 4.9 ns | 1468,2070,126,24
+ControlType.Text | tCCD_L | 1318,2129,72,24
+ControlType.Text | 5 ns | 1468,2128,45,24
+ControlType.Text | tWR | 1318,2163,47,24
+ControlType.Text | 15 ns | 1468,2162,56,24
+ControlType.Text | tWTR_S | 1318,2197,75,24
+ControlType.Text | 2.5 ns | 1468,2196,60,24
+ControlType.Text | 支持的 CL | 1318,2231,90,24
+ControlType.Text | CL10, CL11, CL12, CL13, CL14, CL15, CL16, CL17, CL18, CL19, CL20, CL21, CL22, CL24 | 1468,2230,478,48
+ControlType.Group | XMP 档位 | 1306,2301,723,238
+ControlType.Pane | CL10, CL11, CL12, CL13, CL14, CL15, CL16, CL17, CL18, CL19, CL20, CL21, CL22, CL24 | 1316,2330,703,204
+ControlType.Text | XMP 版本 | 1318,2335,92,24
+ControlType.Text | 2.0 | 1468,2334,36,24
+ControlType.Text | Profile 1 (Enthusiast) | 1318,2369,110,48
+ControlType.Text | DDR4-3604  16-20-20-38  @ 1.35 V | 1468,2368,323,24
+ControlType.Text | DDR4-3604  16-20-20-38  @ 1.35 V | 1319,2422,100,23
+ControlType.Text | tCK 0.555 ns / tAA 8.861 ns / tRCD 11.079 ns / tRP 11.079 ns | 1468,2422,467,21
+ControlType.Text | Profile 2 (Extreme) | 1318,2454,92,48
+ControlType.Text | DDR4-5333  0-0-0-0  @ 0 V | 1468,2453,253,24
+ControlType.Text | DDR4-5333  0-0-0-0  @ 0 V | 1319,2507,100,23
+ControlType.Text | tCK 0.375 ns / tAA 0 ns / tRCD 0 ns / tRP 0 ns | 1468,2507,356,21
+ControlType.Pane | tCK 0.375 ns / tAA 0 ns / tRCD 0 ns / tRP 0 ns | 2049,794,497,615
+ControlType.Pane | tCK 0.375 ns / tAA 0 ns / tRCD 0 ns / tRP 0 ns | 2049,794,497,615
+ControlType.Text | 原始 SPD（512 字节，16 字节/行） | 2052,794,491,32
+ControlType.Document | 原始 SPD（512 字节，16 字节/行） | 2057,826,481,575
+ControlType.StatusBar |  | 1291,1412,1258,31
+ControlType.Text | 读取完成：512 字节，CRC 通过。 请点击“解码校验”后再开放写入。 | 1292,1416,1243,24

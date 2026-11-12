@@ -1,0 +1,8 @@
+﻿ControlType.Window | Thaiphoon Burner
+ ControlType.Pane | 
+  ControlType.Pane | 
+   ControlType.Pane | WelcomeTab
+    ControlType.Pane | 
+  ControlType.Pane | DumpBar
+  ControlType.Pane | 
+ ControlType.Pane | 

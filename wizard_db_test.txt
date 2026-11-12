@@ -1,0 +1,4 @@
+wizard step2 has db button=True
+picker groups=9 leaves=167
+picked=Corsair CMK16GX4M2Z3600C14 DDR4-3600 14-16-16-36
+preset=DB · Corsair CMK16GX4M2Z3600C14 rate=3600 valid=True
