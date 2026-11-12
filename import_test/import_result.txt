@@ -1,0 +1,38 @@
+[.thp] F:\软件工具\ThaiphoonBurner16_1115\JUHOR JHD3600U1616JGS DDR4-2400T with XMP.thp
+added=0 skipped=0 duplicates=0
+error=文件无法解析（可能是加密/专用格式），未导入任何数据
+message=(none)
+
+[.bin 首次] E:\user\docs\Trae-CN\temp_20261107_02\probe\spd_raw.bin
+added=2 skipped=1 duplicates=0
+error=(none)
+message=文件：spd_raw.bin
+新增 2 档，无效/不支持跳过 1 档。
+
+新增条目：
+- 导入 JEDEC · DDR4-2400 CL17-17-17-39
+- 导入 XMP P1 · DDR4-3600 CL16
+
+跳过原因：
+- 导入 XMP P2 · DDR4-4000 CL19：tRC 小于 tRAS + tRP
+
+[.bin 二次] E:\user\docs\Trae-CN\temp_20261107_02\probe\spd_raw.bin
+added=0 skipped=1 duplicates=2
+error=(none)
+
+imported-presets.json exists=True size=2712
+spd_raw byte0=0x24 crc0=True crc1=True
+
+[合成 JEDEC .bin 首次] E:\user\docs\Trae-CN\temp_20261107_02\probe\import_test\jedec2133_synth.bin
+added=1 skipped=0 duplicates=0
+error=(none)
+message=文件：jedec2133_synth.bin
+新增 1 档。
+
+新增条目：
+- 导入 JEDEC · DDR4-2133 CL15-15-15-36
+
+[合成 JEDEC .bin 二次]
+added=0 skipped=0 duplicates=1
+error=(none)
+

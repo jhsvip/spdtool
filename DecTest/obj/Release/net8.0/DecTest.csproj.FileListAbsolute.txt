@@ -1,0 +1,14 @@
+E:\user\docs\Trae-CN\temp_20261107_02\probe\DecTest\bin\Release\net8.0\DecTest.exe
+E:\user\docs\Trae-CN\temp_20261107_02\probe\DecTest\bin\Release\net8.0\DecTest.deps.json
+E:\user\docs\Trae-CN\temp_20261107_02\probe\DecTest\bin\Release\net8.0\DecTest.runtimeconfig.json
+E:\user\docs\Trae-CN\temp_20261107_02\probe\DecTest\bin\Release\net8.0\DecTest.dll
+E:\user\docs\Trae-CN\temp_20261107_02\probe\DecTest\bin\Release\net8.0\DecTest.pdb
+E:\user\docs\Trae-CN\temp_20261107_02\probe\DecTest\obj\Release\net8.0\DecTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\user\docs\Trae-CN\temp_20261107_02\probe\DecTest\obj\Release\net8.0\DecTest.AssemblyInfoInputs.cache
+E:\user\docs\Trae-CN\temp_20261107_02\probe\DecTest\obj\Release\net8.0\DecTest.AssemblyInfo.cs
+E:\user\docs\Trae-CN\temp_20261107_02\probe\DecTest\obj\Release\net8.0\DecTest.csproj.CoreCompileInputs.cache
+E:\user\docs\Trae-CN\temp_20261107_02\probe\DecTest\obj\Release\net8.0\DecTest.dll
+E:\user\docs\Trae-CN\temp_20261107_02\probe\DecTest\obj\Release\net8.0\refint\DecTest.dll
+E:\user\docs\Trae-CN\temp_20261107_02\probe\DecTest\obj\Release\net8.0\DecTest.pdb
+E:\user\docs\Trae-CN\temp_20261107_02\probe\DecTest\obj\Release\net8.0\DecTest.genruntimeconfig.cache
+E:\user\docs\Trae-CN\temp_20261107_02\probe\DecTest\obj\Release\net8.0\ref\DecTest.dll

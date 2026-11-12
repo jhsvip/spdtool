@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="D:\程序开发\SPD工具\Core\Ddr4Decoder.cs" Link="Ddr4Decoder.cs" />
+    <Compile Include="D:\程序开发\SPD工具\Core\SpdCrc.cs" Link="SpdCrc.cs" />
+    <Compile Include="D:\程序开发\SPD工具\Core\SpdFieldCatalog.cs" Link="SpdFieldCatalog.cs" />
+  </ItemGroup>
+</Project>

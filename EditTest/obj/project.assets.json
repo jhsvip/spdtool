@@ -1,0 +1,100 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "SPDTool/1.1.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SPDTool.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SPDTool.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "SPDTool/1.1.0": {
+      "type": "project",
+      "path": "D:\\程序开发\\SPD工具\\SPDTool.csproj",
+      "msbuildProject": "D:\\程序开发\\SPD工具\\SPDTool.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "SPDTool >= 1.1.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jn01\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\user\\docs\\Trae-CN\\temp_20261107_02\\probe\\EditTest\\EditTest.csproj",
+      "projectName": "EditTest",
+      "projectPath": "E:\\user\\docs\\Trae-CN\\temp_20261107_02\\probe\\EditTest\\EditTest.csproj",
+      "packagesPath": "C:\\Users\\jn01\\.nuget\\packages\\",
+      "outputPath": "E:\\user\\docs\\Trae-CN\\temp_20261107_02\\probe\\EditTest\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\jn01\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "D:\\程序开发\\SPD工具\\SPDTool.csproj": {
+              "projectPath": "D:\\程序开发\\SPD工具\\SPDTool.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.427/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
