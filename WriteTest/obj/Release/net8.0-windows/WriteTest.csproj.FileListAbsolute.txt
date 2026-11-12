@@ -1,0 +1,14 @@
+E:\user\docs\Trae-CN\temp_20261107_02\probe\WriteTest\obj\Release\net8.0-windows\WriteTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\user\docs\Trae-CN\temp_20261107_02\probe\WriteTest\obj\Release\net8.0-windows\WriteTest.AssemblyInfoInputs.cache
+E:\user\docs\Trae-CN\temp_20261107_02\probe\WriteTest\obj\Release\net8.0-windows\WriteTest.AssemblyInfo.cs
+E:\user\docs\Trae-CN\temp_20261107_02\probe\WriteTest\obj\Release\net8.0-windows\WriteTest.csproj.CoreCompileInputs.cache
+E:\user\docs\Trae-CN\temp_20261107_02\probe\WriteTest\bin\Release\net8.0-windows\WriteTest.exe
+E:\user\docs\Trae-CN\temp_20261107_02\probe\WriteTest\bin\Release\net8.0-windows\WriteTest.deps.json
+E:\user\docs\Trae-CN\temp_20261107_02\probe\WriteTest\bin\Release\net8.0-windows\WriteTest.runtimeconfig.json
+E:\user\docs\Trae-CN\temp_20261107_02\probe\WriteTest\bin\Release\net8.0-windows\WriteTest.dll
+E:\user\docs\Trae-CN\temp_20261107_02\probe\WriteTest\bin\Release\net8.0-windows\WriteTest.pdb
+E:\user\docs\Trae-CN\temp_20261107_02\probe\WriteTest\obj\Release\net8.0-windows\WriteTest.dll
+E:\user\docs\Trae-CN\temp_20261107_02\probe\WriteTest\obj\Release\net8.0-windows\refint\WriteTest.dll
+E:\user\docs\Trae-CN\temp_20261107_02\probe\WriteTest\obj\Release\net8.0-windows\WriteTest.pdb
+E:\user\docs\Trae-CN\temp_20261107_02\probe\WriteTest\obj\Release\net8.0-windows\WriteTest.genruntimeconfig.cache
+E:\user\docs\Trae-CN\temp_20261107_02\probe\WriteTest\obj\Release\net8.0-windows\ref\WriteTest.dll
