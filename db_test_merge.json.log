@@ -1,0 +1,20 @@
+china.json：读入 20，新增 20
+crucial_kingston.json：读入 35，新增 35
+gskill.json：读入 40，新增 40
+team_adata.json：读入 32，新增 32
+total=127 save=True
+brand G.Skill=40
+brand TeamGroup=32
+brand Crucial=20
+brand Kingston=15
+brand 光威=8
+brand 玖合=6
+brand 金百达=5
+brand 阿斯加特=1
+source 厂商标称=58
+source 零售商标称=34
+source 主板QVL=27
+source 零售商规格页=5
+source 零售商规格表=1
+source 媒体实测=1
+source 用户实测/论坛=1

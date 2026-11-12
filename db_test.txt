@@ -1,0 +1,10 @@
+db entries=167
+db brands=光威:8,阿斯加特:1,金百达:5,玖合:6,Corsair:40,Crucial:20,Kingston:15,G.Skill:40,TeamGroup:32
+search 3200 -> brandNodes=9 leafNodes=88
+sync tRCD ns=11.25 -> CK=18 nCK=18
+after apply tRCD=11.25ns tCK=0.625
+dump import offset=0 brand=JUHOR（按本机比对确认） model=JHD4000U1916JG -> DDR4-2400 17-17-17-38
+csv rows=3 mapped=2 skipped=1
+ui map=brand,series,model,capacitygb,datarate,cl,trcd,trp,tras,voltage,sourceurl
+main tabs=概览,时序,XMP,SPD 数据库,原始数据,报告
+main title=及叔工具 - SPD工具 v1.4.0
